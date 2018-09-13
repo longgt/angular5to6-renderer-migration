@@ -23,8 +23,8 @@ var Rule = (function (_super) {
     Rule.metadata = {
         ruleName: 'renderer-migration',
         type: 'functionality',
-        description: 'Updates the paths of the rxjs imports to the version 6',
-        rationale: 'RxJS version 6 updated their API which requires changes in some of the import paths.',
+        description: 'Migrate @angular/core Renderer to Renderer2',
+        rationale: '',
         options: null,
         optionsDescription: 'Not configurable.',
         typescriptOnly: true
