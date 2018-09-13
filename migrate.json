@@ -1,0 +1,7 @@
+{
+  "rulesDirectory": ["."],
+  "defaultSeverity": "warning",
+  "rules": {
+    "renderer-migration": true
+  }
+}
